@@ -1,0 +1,16 @@
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\NumGuessC#.exe
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\NumGuessC#.deps.json
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\NumGuessC#.runtimeconfig.json
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\NumGuessC#.runtimeconfig.dev.json
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\NumGuessC#.dll
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\ref\NumGuessC#.dll
+C:\Users\ryan.serghini\Desktop\NumGuessC#\bin\Debug\net5.0\NumGuessC#.pdb
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.csprojAssemblyReference.cache
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.AssemblyInfoInputs.cache
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.AssemblyInfo.cs
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.csproj.CoreCompileInputs.cache
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.dll
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\ref\NumGuessC#.dll
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.pdb
+C:\Users\ryan.serghini\Desktop\NumGuessC#\obj\Debug\net5.0\NumGuessC#.genruntimeconfig.cache
